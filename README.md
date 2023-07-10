@@ -25,5 +25,3 @@ class SoftwareEngineer:
 ---
 
 ##### Hope you find something interesting here.
-
-##### Ignore this - https://flying-swordtail-ac1.notion.site/Deadlocks-ed46e4bf3a1c4bfba7abf0fa2e1a1dd7
