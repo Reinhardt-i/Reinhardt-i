@@ -1,5 +1,6 @@
 ### Hey, This is Abraar. Welcome to my space! 
 
+---
 
 ```zsh
 > $ python3 Reinhardt-i.py
@@ -12,16 +13,18 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Abraar Reinhardt"
-        self.tools = ["Python", "C++", "Julia"]
+        self.name = "Abraar"
+        self.tools = ["Python", "C++", "Julia", "Flutter"]
         self.learning = "Rust for Sytems Programming"
         self.passsion = "The Art Of Software."
         
     def contact(self):
         self.Discord = Rreinhardt #9910
+        self.mail = reinhardt.codes@gmail.com
         
 ```
 
 ---
 
-##### Hope you find something interesting here.
+##### Hope you find something interesting here. 
+###### Let's Connect! I'm always excited to collaborate, learn, and connect with developers and enthusiasts. If you have a project in mind, want to discuss tech trends, or simply want to share your thoughts, don't hesitate to reach out to me. Thanks~
